@@ -34,3 +34,4 @@
   - [Project Management Tools] Trello, Jira, Confluence, GitHub Projects
   - [Project methodologies] Agile, SCRUM, Kanban
   - [QA & Debugging Tools] Postman, Wireshark, Fiddler, Chrome DevTools
+- 🌐 My e-commerce (pet) project: [https://cybersite2077.online](https://cybersite2077.online/) 
