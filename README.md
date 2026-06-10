@@ -1,5 +1,7 @@
 # 🖖 Greetings, I am Tamashkov Valeriy!
 
+![background](./bg.png)
+
 - 👨‍🔬 Full-stack developer
 - 🖥️ 3+ years of commercial development experience
 - 🧠 I have a qualification as an engineer and completed postgraduate studies
