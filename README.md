@@ -10,7 +10,7 @@
   - [Styles] CSS3 (Flexbox, CSS Grid Layout, responsive web design), Sass (SCSS), PostCSS, Bootstrap, Tailwind, BEM, Framer Motion, CSS Modules
   - [Basic language] JavaScript (ES6+, OOP), TypeScript, jQuery.
   - [SPA framework] React
-  - [State managers] Redux (Redux Toolkit, Redux Persist), Zustand, TanStack Query
+  - [State managers] Redux (Redux Thunk, Redux Saga, Redux Toolkit (RTK Query), Redux Persist), Zustand, TanStack Query
   - [Routing] React Router
   - [SSR framework] Next.js
   - [Forms] React Hook Form, Zod, Yup
