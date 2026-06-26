@@ -23,13 +23,14 @@
   - [Design] Figma (figma-to-code conversion / layout design), Adobe Photoshop, Adobe After Effects, CorelDraw, basic UX/UI principles
   - [Tools] Node.js, npm
   - [Backend frameworks] Express.js, NestJS
-  - [DB] SQL, PostgreSQL, Prisma ORM, MongoDB, Mongoose ODM, Redis, Elasticsearch, SQLite
+  - [DB] SQL, PostgreSQL, Prisma ORM, MongoDB, Mongoose ODM, Redis, Elasticsearch, Clickhouse, Neo4j, SQLite
   - [CI/CD] GitHub Actions
   - [Monitoring & Observability] Grafana, Grafana Tempo, Grafana Loki, Prometheus
-  - [API && Messaging] RESTful API, gRPC, WebSockets, OpenAPI, Swagger, Axios, RabbitMQ, BullMQ
+  - [API && Messaging] RESTful API, gRPC, WebSockets, OpenAPI, Swagger, Axios, RabbitMQ, Kafka, BullMQ
   - [Infrastructure] Docker (docker compose), Nginx
   - [Authorization] JWT, Session Cookies, OAuth + OIDC
-  - [Architecture and methodologies] Feature-Sliced Design, Monolith, Modular Monolith, Microservice Architecture
+  - [Architecture and methodologies] Feature-Sliced Design, Backend-for-Frontend, Monolith, Modular Monolith, Microservice Architecture
+  - [GRAND stack] GraphQL, Apollo Client, Apollo Server
   - [VCS] Git (GitHub, GitLab)
   - [Project Management Tools] Trello, Jira, Confluence, GitHub Projects
   - [Project methodologies] Agile, SCRUM, Kanban
