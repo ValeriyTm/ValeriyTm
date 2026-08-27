@@ -23,16 +23,17 @@
   - [Design] Figma (figma-to-code conversion / layout design), Adobe Photoshop, Adobe After Effects, CorelDraw, basic UX/UI principles
   - [Tools] Node.js, npm
   - [Backend frameworks] Express.js, NestJS
-  - [DB] SQL, PostgreSQL, Prisma ORM, MongoDB, Mongoose ODM, Redis, Elasticsearch, Clickhouse, Neo4j, SQLite
+  - [DB] SQL, PostgreSQL, Prisma ORM, MongoDB, Mongoose ODM, Redis, Elasticsearch, Clickhouse, Neo4j, SQLite, S3-compatible storage
   - [CI/CD] GitHub Actions
   - [Monitoring & Observability] Grafana, Grafana Tempo, Grafana Loki, Prometheus
   - [API && Messaging] RESTful API, gRPC, WebSockets, OpenAPI, Swagger, Axios, RabbitMQ, Kafka, BullMQ
-  - [Infrastructure] Docker (docker compose), Nginx
-  - [Authorization] JWT, Session Cookies, OAuth + OIDC
+  - [Infrastructure] Docker (docker compose), Nginx, Traefik, Kubernetes
+  - [Authorization] JWT (token-based auth), Session Cookies, key-based auth, OAuth + OIDC
   - [Architecture and methodologies] Feature-Sliced Design, Backend-for-Frontend, Monolith, Modular Monolith, Microservice Architecture
   - [GRAND stack] GraphQL, Apollo Client, Apollo Server
   - [VCS] Git (GitHub, GitLab)
   - [Project Management Tools] Trello, Jira, Confluence, GitHub Projects
   - [Project methodologies] Agile, SCRUM, Kanban
   - [QA & Debugging Tools] Postman, Wireshark, Fiddler, Chrome DevTools
-- 🌐 My e-commerce (pet) project: [https://cybersite2077.online](https://cybersite2077.online/) 
+- 🌐 My e-commerce (pet) project: [https://cybersite2077.online](https://cybersite2077.online/)
+- 🗄️ My API Server (REST) with 70+ different endpoints (Google AIP): [https://github.com/ValeriyTm/VLR-Taiga-Server](https://github.com/ValeriyTm/VLR-Taiga-Server/)
