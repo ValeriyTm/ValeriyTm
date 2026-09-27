@@ -29,7 +29,7 @@
   - [API && Messaging] RESTful API, gRPC, WebSockets, OpenAPI, Swagger, Axios, RabbitMQ, Kafka, BullMQ
   - [Infrastructure] Docker (docker compose), Nginx, Traefik, Kubernetes
   - [Authorization] JWT (token-based auth), Session Cookies, key-based auth, OAuth + OIDC
-  - [Architecture and methodologies] Feature-Sliced Design, Backend-for-Frontend, Monolith, Modular Monolith, Microservice Architecture
+  - [Architecture and methodologies] Feature-Sliced Design, Backend-for-Frontend, Microfrontend, Monolith, Modular Monolith, Microservice Architecture
   - [GRAND stack] GraphQL, Apollo Client, Apollo Server
   - [VCS] Git (GitHub, GitLab)
   - [Project Management Tools] Trello, Jira, Confluence, GitHub Projects
