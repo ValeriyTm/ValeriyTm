@@ -13,13 +13,15 @@
   - [State managers] Redux (Redux Thunk, Redux Saga, Redux Toolkit (RTK Query), Redux Persist), Zustand, TanStack Query
   - [Routing] React Router
   - [SSR framework] Next.js
+  - [Desktop] Electron
+  - [Mobile] React Native
   - [Forms] React Hook Form, Zod, Yup
   - [Bundlers] Webpack, Vite
   - [Linters && formatters] ESLint, Stylelint, Prettier
   - [UI libraries] Material UI, Radix UI, Shadcn
-  - [Testing] Jest, Vitest, React Testing Library, Cypress, Storybook (+Chromatic)
+  - [Testing] Vitest, Jest, Supertsest, React Testing Library, MSW, Cypress, Playwright, Storybook (+Chromatic)
   - [CMS] Strapi
-  - [Maps] PostGIS, leaflet.js
+  - [Maps] PostGIS, Leaflet.js
   - [Design] Figma (figma-to-code conversion / layout design), Adobe Photoshop, Adobe After Effects, CorelDraw, basic UX/UI principles
   - [Tools] Node.js, npm
   - [Backend frameworks] Express.js, NestJS
@@ -27,9 +29,10 @@
   - [CI/CD] GitHub Actions
   - [Monitoring & Observability] Grafana, Grafana Tempo, Grafana Loki, Prometheus
   - [API && Messaging] RESTful API, gRPC, WebSockets, OpenAPI, Swagger, Axios, RabbitMQ, Kafka, BullMQ
-  - [Infrastructure] Docker (docker compose), Nginx, Traefik, Kubernetes
-  - [Authorization] JWT (token-based auth), Session Cookies, key-based auth, OAuth + OIDC
-  - [Architecture and methodologies] Feature-Sliced Design, Backend-for-Frontend, Microfrontend, Monolith, Modular Monolith, Microservice Architecture
+  - [Infrastructure] Docker (docker compose), Nginx, Kubernetes
+  - [Auth] JWT (token-based auth), Session Cookies, Key-based auth, OAuth + OIDC, TOTP, Basic Auth, RBAC
+  - [Architecture and methodologies] Feature-Sliced Design (FSD), Backend-for-Frontend (BFF), Microfrontend, Monolith, Modular Monolith, Microservice Architecture
+  - [AI] LLM integration, Vercel AI SDK, RAG, LangGraph, Mem0
   - [GRAND stack] GraphQL, Apollo Client, Apollo Server
   - [VCS] Git (GitHub, GitLab)
   - [Project Management Tools] Trello, Jira, Confluence, GitHub Projects
