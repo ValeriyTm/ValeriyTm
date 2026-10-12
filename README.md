@@ -3,7 +3,6 @@
 ![background](./bg.png)
 
 - 👨‍🔬 Full-stack developer
-- 🖥️ 3+ years of commercial development experience
 - 🧠 I have a qualification as an engineer and completed postgraduate studies
 - 🛠️ My development stack:
   - [Markup] HTML5, JSX (semantic / valid markup, accessibility, SEO)
