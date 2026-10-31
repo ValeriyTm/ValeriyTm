@@ -31,7 +31,7 @@
   - [Infrastructure] Docker (docker compose), Nginx, Kubernetes
   - [Auth] JWT (token-based auth), Session Cookies, Key-based auth, OAuth + OIDC, TOTP, Basic Auth, RBAC
   - [Architecture and methodologies] Feature-Sliced Design (FSD), Backend-for-Frontend (BFF), Microfrontend, Monolith, Modular Monolith, Microservice Architecture
-  - [AI] LLM integration, Vercel AI SDK, RAG, LangGraph, Mem0
+  - [AI] LLM integration, Vercel AI SDK, RAG, LangChain/LangGraph, Mem0, pgvector, Qdrant, Langfuse, DeepEval, Ragos
   - [GRAND stack] GraphQL, Apollo Client, Apollo Server
   - [VCS] Git (GitHub, GitLab)
   - [Project Management Tools] Trello, Jira, Confluence, GitHub Projects
