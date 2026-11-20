@@ -6,32 +6,33 @@
 - 🧠 I have a qualification as an engineer and completed postgraduate studies
 - 🛠️ My development stack:
   - [Markup] HTML5, JSX (semantic / valid markup, accessibility, SEO)
-  - [Styles] CSS3 (Flexbox, CSS Grid Layout, responsive web design), Sass (SCSS), PostCSS, Bootstrap, Tailwind, BEM, Framer Motion, CSS Modules
-  - [Basic language] JavaScript (ES6+, OOP), TypeScript, jQuery.
+  - [Styles & Animations] CSS3 (Flexbox, CSS Grid Layout, responsive web design), Sass (SCSS), PostCSS, Bootstrap, Tailwind, BEM, Framer Motion, CSS Modules, CSS-in-JS, Styled Components
+  - [Basic language] JavaScript (ES6+, OOP), TypeScript, Python
   - [SPA framework] React
-  - [State managers] Redux (Redux Thunk, Redux Saga, Redux Toolkit (RTK Query), Redux Persist), Zustand, TanStack Query
+  - [State management] Redux (Redux Thunk, Redux Saga, Redux Toolkit (RTK Query), Redux Persist), Zustand, TanStack Query
   - [Routing] React Router
   - [SSR framework] Next.js
   - [Desktop] Electron
   - [Mobile] React Native
-  - [Forms] React Hook Form, Zod, Yup
+  - [Forms] React Hook Form
+  - [Validation] Zod, Yup, Pydantic
   - [Bundlers] Webpack, Vite
-  - [Linters && formatters] ESLint, Stylelint, Prettier
-  - [UI libraries] Material UI, Radix UI, Shadcn
-  - [Testing] Vitest, Jest, Supertsest, React Testing Library, MSW, Cypress, Playwright, Storybook (+Chromatic)
+  - [Linters && formatters] ESLint, Stylelint, Prettier, Biome, Ruff
+  - [UI libraries] jQuery, Material UI, Radix UI, Shadcn
+  - [Testing] Vitest, Jest, Supertest, React Testing Library, MSW, Cypress, Playwright, Storybook (Chromatic), Pytest, polyfactory
   - [CMS] Strapi
-  - [Maps] PostGIS, Leaflet.js
+  - [Maps & GIS] PostGIS, Leaflet.js
   - [Design] Figma (figma-to-code conversion / layout design), Adobe Photoshop, Adobe After Effects, CorelDraw, basic UX/UI principles
-  - [Tools] Node.js, npm
-  - [Backend frameworks] Express.js, NestJS
-  - [DB] SQL, PostgreSQL, Prisma ORM, MongoDB, Mongoose ODM, Redis, Elasticsearch, Clickhouse, Neo4j, SQLite, S3-compatible storage
-  - [CI/CD] GitHub Actions
+  - [Runtimes & Package Managers] Node.js, npm, Poetry
+  - [Backend frameworks] Express.js, NestJS, FastAPI
+  - [DB] SQL, PostgreSQL, Prisma ORM, SQLAlchemy, Alembic, MongoDB, Mongoose ODM, Redis, Elasticsearch, Clickhouse, Neo4j, SQLite, S3-compatible storage
+  - [CI/CD] GitHub Actions, GitLab CI/CD
   - [Monitoring & Observability] Grafana, Grafana Tempo, Grafana Loki, Prometheus
-  - [API && Messaging] RESTful API, gRPC, WebSockets, OpenAPI, Swagger, Axios, RabbitMQ, Kafka, BullMQ
+  - [API && Messaging] RESTful API, gRPC, WebSockets, OpenAPI, Swagger, Axios, RabbitMQ, Kafka, BullMQ, Celery
   - [Infrastructure] Docker (docker compose), Nginx, Kubernetes
-  - [Auth] JWT (token-based auth), Session Cookies, Key-based auth, OAuth + OIDC, TOTP, Basic Auth, RBAC
+  - [Auth] JWT (Token-based auth), Session Cookies, Key-based auth, OAuth + OIDC, TOTP, Basic Auth, RBAC
   - [Architecture and methodologies] Feature-Sliced Design (FSD), Backend-for-Frontend (BFF), Microfrontend, Monolith, Modular Monolith, Microservice Architecture
-  - [AI] LLM integration, Vercel AI SDK, RAG, LangChain/LangGraph, Mem0, pgvector, Qdrant, Langfuse, DeepEval, Ragos
+  - [AI] LLM integration, Vercel AI SDK, RAG, LangChain/LangGraph, Mem0, pgvector, Qdrant, Langfuse, DeepEval, Ragas
   - [GRAND stack] GraphQL, Apollo Client, Apollo Server
   - [VCS] Git (GitHub, GitLab)
   - [Project Management Tools] Trello, Jira, Confluence, GitHub Projects
